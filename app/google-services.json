@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1047842896242",
+    "firebase_url": "https://vkapp-1c6ba.firebaseio.com",
+    "project_id": "vkapp-1c6ba",
+    "storage_bucket": "vkapp-1c6ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047842896242:android:f367ac0f69910530",
+        "android_client_info": {
+          "package_name": "com.itis.android.vkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047842896242-cdfclt74j1a7e0que2siejcsgjtcstdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itis.android.vkapp",
+            "certificate_hash": "a3009c9f1cac7b48f85016b4db13d64ee11219ad"
+          }
+        },
+        {
+          "client_id": "1047842896242-c1ma1l297r6m0ks4vaep6f9847tq6ot2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQoRiQHubGutd8KfI8C1zLjlV58j84glg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047842896242-c1ma1l297r6m0ks4vaep6f9847tq6ot2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
